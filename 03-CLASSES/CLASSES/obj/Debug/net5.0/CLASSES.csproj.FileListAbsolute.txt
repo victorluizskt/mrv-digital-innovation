@@ -1,0 +1,16 @@
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\bin\Debug\net5.0\CLASSES.exe
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\bin\Debug\net5.0\CLASSES.deps.json
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\bin\Debug\net5.0\CLASSES.runtimeconfig.json
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\bin\Debug\net5.0\CLASSES.runtimeconfig.dev.json
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\bin\Debug\net5.0\CLASSES.dll
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\bin\Debug\net5.0\ref\CLASSES.dll
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\bin\Debug\net5.0\CLASSES.pdb
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\obj\Debug\net5.0\CLASSES.csprojAssemblyReference.cache
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\obj\Debug\net5.0\CLASSES.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\obj\Debug\net5.0\CLASSES.AssemblyInfoInputs.cache
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\obj\Debug\net5.0\CLASSES.AssemblyInfo.cs
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\obj\Debug\net5.0\CLASSES.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\obj\Debug\net5.0\CLASSES.dll
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\obj\Debug\net5.0\ref\CLASSES.dll
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\obj\Debug\net5.0\CLASSES.pdb
+E:\Cursos\Curso .NET\03-CLASSES\CLASSES\obj\Debug\net5.0\CLASSES.genruntimeconfig.cache

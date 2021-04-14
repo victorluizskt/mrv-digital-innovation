@@ -1,0 +1,16 @@
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\bin\Debug\net5.0\Interface.exe
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\bin\Debug\net5.0\Interface.deps.json
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\bin\Debug\net5.0\Interface.dll
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\bin\Debug\net5.0\ref\Interface.dll
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\bin\Debug\net5.0\Interface.pdb
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\obj\Debug\net5.0\Interface.csprojAssemblyReference.cache
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\obj\Debug\net5.0\Interface.dll
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\obj\Debug\net5.0\ref\Interface.dll
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\obj\Debug\net5.0\Interface.pdb
+E:\Cursos\Curso .NET\04-INTERFACE\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\bin\Debug\net5.0\Instrucoes.exe
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\bin\Debug\net5.0\Instrucoes.deps.json
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\bin\Debug\net5.0\Instrucoes.runtimeconfig.json
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\bin\Debug\net5.0\Instrucoes.runtimeconfig.dev.json
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\bin\Debug\net5.0\Instrucoes.dll
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\bin\Debug\net5.0\ref\Instrucoes.dll
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\bin\Debug\net5.0\Instrucoes.pdb
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\obj\Debug\net5.0\Instrucoes.csprojAssemblyReference.cache
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\obj\Debug\net5.0\Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\obj\Debug\net5.0\Instrucoes.AssemblyInfoInputs.cache
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\obj\Debug\net5.0\Instrucoes.AssemblyInfo.cs
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\obj\Debug\net5.0\Instrucoes.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\obj\Debug\net5.0\Instrucoes.dll
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\obj\Debug\net5.0\ref\Instrucoes.dll
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\obj\Debug\net5.0\Instrucoes.pdb
+E:\Cursos\Curso .NET\02-INSTRUCOES\Instrucoes\obj\Debug\net5.0\Instrucoes.genruntimeconfig.cache

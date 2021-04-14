@@ -1,0 +1,32 @@
+E:\Projeto  DotNET VScode\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+E:\Projeto  DotNET VScode\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+E:\Projeto  DotNET VScode\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+E:\Projeto  DotNET VScode\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+E:\Projeto  DotNET VScode\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+E:\Projeto  DotNET VScode\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+E:\Projeto  DotNET VScode\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+E:\Projeto  DotNET VScode\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csprojAssemblyReference.cache
+E:\Projeto  DotNET VScode\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeto  DotNET VScode\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+E:\Projeto  DotNET VScode\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+E:\Projeto  DotNET VScode\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+E:\Projeto  DotNET VScode\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+E:\Projeto  DotNET VScode\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+E:\Projeto  DotNET VScode\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+E:\Projeto  DotNET VScode\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\DigitalInnovationOne.exe
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\DigitalInnovationOne.dll
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\DigitalInnovationOne.pdb
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\DigitalInnovationOne.csprojAssemblyReference.cache
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\DigitalInnovationOne.dll
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\DigitalInnovationOne.pdb
+E:\Cursos\Curso .NET\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
